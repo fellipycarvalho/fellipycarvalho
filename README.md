@@ -1,4 +1,4 @@
-### Olá dou o Fellipy Carvalho
+### Olá sou o Fellipy Carvalho
 
 
 - 🔭 I’m currently working on ...
