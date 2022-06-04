@@ -1,4 +1,4 @@
-<h2> Olá sou o Fellipy Carvalho, Desenvolvedor Front End</h2>
+<h2> Olá sou o Fellipy Carvalho, Desenvolvedor Web</h2>
 
 
 <div align="center">
